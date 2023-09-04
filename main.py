@@ -3,7 +3,7 @@ import json
 
 # Define the input and output file names
 input_yaml_file = "openAi.yaml"
-output_json_file = "openAi.json"
+output_json_file = "openai.json"
 
 # Open and read the YAML file
 with open(input_yaml_file, 'r') as yaml_file:
